@@ -1,0 +1,11 @@
+SiiNunit 
+{ 
+	mod_package : .package_name
+		{
+		package_version: "1"
+		author: "Piras314"
+
+		icon: "mod_image.jpg"
+		description_file: "mod_description.txt"
+	}
+}
